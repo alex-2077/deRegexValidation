@@ -51,6 +51,8 @@ class ScriptInit {
  *  Copyright (c) 2019 Aleksey Sirochenko
  *  https://github.com/ALEX-256/
  *
+ *  Version 1.0.0
+ *
  *  Repository url:
  *  https://github.com/ALEX-256/deRegexValidation
  *  @license
