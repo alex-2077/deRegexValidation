@@ -2,7 +2,7 @@
 import {ValidationConfigs} from './interfaces/config';
 import {Settings} from "./classes/settings";
 import {Input} from "./classes/input";
-import {EventsEmitter} from "./classes/EventsEmitter";
+import {EventsEmitter} from "./classes/events-emitter";
 
 export const pluginName = 'deRegexValidation';
 
