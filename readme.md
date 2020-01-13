@@ -3,7 +3,7 @@
 
 
 To see documentation of this plugin please visit:<br>
-https://alex-256.github.io/deRegexValidation/
+https://alex-2077.github.io/deRegexValidation/
 
 
 Originally this plugin was written to internal use only, but in a course of time I decided to make it as a full featured standalone jquery plugin.
@@ -29,6 +29,6 @@ Version 1.0.0
 <br>
 
 Copyright (c) 2019 Aleksey Sirochenko<br>
-https://github.com/ALEX-256/
+https://github.com/alex-2077/
 
 MIT License https://opensource.org/licenses/MIT
